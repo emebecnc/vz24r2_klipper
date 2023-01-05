@@ -34,3 +34,21 @@ Setup the macro:
 [include git/*.cfg]
 
 5. Restart the macro. You should now have a working "BACKUP_CFG" macro
+
+
+
+Cloning our config from the repo to the pi (Fresh OS Instalation)
+
+1 - Set credentials
+
+SSH into the Pi and run the following commands:
+
+git config --global credential.helper store
+git config --global user.name "<Your Name>"
+git config --global user.email "<Your email>"
+
+2 - Exejute "cd ~/printer_data"
+3 - A - Execute "rm -r config" (Delete whats is in our config folder)
+    B - Execute "mv config configold" (To move your actual config folder to another)
+4 - git clone <your backup github url> config
+5 - Now "cd config" then "ls -l" and you should see everything
