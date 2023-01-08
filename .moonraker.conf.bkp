@@ -71,3 +71,13 @@ output_path = ~/timelapse/
 frame_path = /tmp/timelapse/
 ffmpeg_binary_path = /usr/bin/ffmpeg
 
+[update_manager moonraker-obico]
+type = git_repo
+path = ~/moonraker-obico
+origin = https://github.com/TheSpaghettiDetective/moonraker-obico.git
+env = /home/pi/moonraker-env/bin/python
+requirements = requirements.txt
+install_script = install.sh
+managed_services = 
+	moonraker-obico
+
