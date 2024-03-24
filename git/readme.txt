@@ -1,4 +1,4 @@
-Setup new github repo on the Pi:
+Setup new github repo on the Pi: d
 
 1. Go to https://github.com/new and create a new private repo. The repo URL will be used below.
 
