@@ -1,0 +1,10 @@
+Exceptions:
+Exception Code :c0000005 ACCESS_VIOLATION
+Exception Flag :0x0 NumberParameters :2 
+Param 0 :0x0 
+Param 1 :0x48 
+Context :000000D2FECCEEC0 
+ContextFlag : 0x10005f, EFlags: 0x10246 
+Fault address:  0x761A5BA1 0x1:0xB74BA1 C:\Program Files\OrcaSlicer\OrcaSlicer.dll
+
+Show CallStack:
