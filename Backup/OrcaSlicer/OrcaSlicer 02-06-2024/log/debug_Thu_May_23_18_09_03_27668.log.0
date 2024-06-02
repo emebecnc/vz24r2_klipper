@@ -1,0 +1,52 @@
+[error]	2024-05-23 18:09:06.351851[Thread 0x00003d7c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00004b14]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-23 18:09:06.355840[Thread 0x00001e4c]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00004b14]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00001e4c]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00004b14]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00001e4c]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00004b14]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00002e04]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00001e4c]:Unable to open the fileE:\Escritorio\test(1).3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00004b14]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-23 18:09:06.355840[Thread 0x00003d7c]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-23 18:09:08.047782[Thread 0x00003d7c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-05-23 18:09:08.293308[Thread 0x00003d7c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-23 18:09:22.124195[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:27.418212[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:29.039388[Thread 0x00003d7c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 18:09:30.430460[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:33.863692[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:35.161828[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:38.221368[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:38.985606[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:39.319009[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:39.748499[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:40.109818[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:40.482598[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:40.873383[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:41.216703[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:41.404857[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:41.778665[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:41.939916[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:43.214602[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:43.921630[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:44.176213[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:44.364567[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:44.626341[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:44.779158[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:45.128325[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:45.258077[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:46.538148[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:09:49.911178[Thread 0x00003d7c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 18:09:49.912204[Thread 0x00003d7c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-23 18:09:49.996760[Thread 0x00003d7c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-23 18:10:32.287794[Thread 0x00003d7c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 18:10:32.334425[Thread 0x00003d7c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

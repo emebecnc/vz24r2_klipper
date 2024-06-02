@@ -1,0 +1,36 @@
+[error]	2024-05-18 15:11:39.733720[Thread 0x00003e78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-18 15:11:39.734715[Thread 0x00003e78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-18 15:11:39.737708[Thread 0x00003e78]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00003e78]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00003e78]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00003e78]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002190]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002190]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002190]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002190]:Unable to open the fileE:\Escritorio\test(1).3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002190]:Unable to open the fileE:\Escritorio\test.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002b50]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-18 15:11:39.737708[Thread 0x00002984]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-18 15:11:39.740701[Thread 0x00003e78]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-18 15:11:39.887352[Thread 0x00003e78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-18 15:11:41.458677[Thread 0x00003e78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-18 15:11:41.545718[Thread 0x00003e78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-05-18 15:11:41.619034[Thread 0x00003e78]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-18 15:25:54.380848[Thread 0x00001920]:gcode path conflicts found between T800_Base_Supported_v5.4.5.stl and Cube
+[error]	2024-05-18 15:25:54.722702[Thread 0x00001920]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2024-05-18 15:25:57.976501[Thread 0x00001d44]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-18 15:26:20.785754[Thread 0x00001920]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2024-05-18 15:26:37.418234[Thread 0x00003178]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 587 NextTarget: 587 Distance to top: 95 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001D4040B2230: Radius: 3594922 at layer: 588 NextTarget: 588 Distance to top: 94 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-05-18 15:26:37.420228[Thread 0x00003178]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 585 NextTarget: 585 Distance to top: 97 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001D4040B79F0: Radius: 3594922 at layer: 586 NextTarget: 586 Distance to top: 96 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-05-18 15:26:38.510152[Thread 0x00002190]:Influence area could not be increased! Data about the Influence area: Radius: 5484678 at layer: 142 NextTarget: 142 Distance to top: 221 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001D40B56A810: Radius: 5484678 at layer: 143 NextTarget: 143 Distance to top: 220 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-05-20 11:20:02.310866[Thread 0x00003e78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-20 11:20:02.413343[Thread 0x00003e78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

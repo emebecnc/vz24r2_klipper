@@ -1,0 +1,185 @@
+[error]	2024-05-27 10:14:51.328906[Thread 0x00004368]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-27 10:14:51.329938[Thread 0x00004368]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004368]:Unable to open the fileE:\Escritorio\Body.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004368]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004368]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004368]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004368]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004368]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004eec]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004eec]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004eec]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00004eec]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-27 10:14:51.333061[Thread 0x00003974]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-27 10:14:51.338484[Thread 0x00004368]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-27 10:14:51.486055[Thread 0x00004368]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-27 10:14:53.098656[Thread 0x00004368]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-27 10:14:53.201063[Thread 0x00004368]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-05-27 10:14:53.288751[Thread 0x00004368]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-27 10:35:33.598724[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.598724[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.598724[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.599722[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.600719[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.601717[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.602714[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.603713[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.627903[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.628901[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.628901[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.628901[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.628901[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.628901[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.629898[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.629898[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.630215[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.630215[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.630215[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.630215[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.630215[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.631216[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.632210[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.632210[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.633208[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.633208[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.633208[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.634205[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.634205[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.634205[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.634205[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.634205[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.635203[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.636199[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.636199[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.637196[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.637196[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.640372[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.640372[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.644362[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.644362[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.644362[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.644362[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.647363[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.647363[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.647363[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.647363[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.648351[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.648351[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.651583[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.651583[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.652580[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.652580[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.655572[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.655572[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.657567[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.658564[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.658564[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.659703[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.661698[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.661698[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.661698[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.661698[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.661698[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.663693[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.664693[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.664693[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.666685[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.666685[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.666685[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.666685[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.667689[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.667689[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.670825[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.672820[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.676323[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.676323[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.677320[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.677320[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.677320[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.681499[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.682497[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.683495[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.683495[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.684501[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.684501[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.684501[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.694636[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.694636[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.697631[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.699623[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.700841[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.716049[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.716049[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.716049[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.716049[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.716049[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.717045[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.718049[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.719039[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.720037[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.720037[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.720037[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.721034[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.721034[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.721034[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.722031[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.722031[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.722031[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.722031[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.722031[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.722031[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.723028[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.723028[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.723028[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.723028[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.724026[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.724026[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.726020[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.726020[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.727018[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.727018[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.727018[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.727018[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.728015[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.728015[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-27 10:35:33.729012[Thread 0x00004368]:its_convex_hull: Unable to create convex hull
+[error]	2024-05-28 10:18:20.683326[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-28 10:18:29.271387[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-28 10:19:12.068143[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 10:19:13.540816[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 10:19:28.944455[Thread 0x00004160]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-28 10:19:29.284371[Thread 0x00002184]:Reversing even wall line causes it to be printed CCW instead of CW!
+[warning]	2024-05-28 10:20:18.560027[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-28 10:20:24.134472[Thread 0x00004160]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-28 10:21:50.028069[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 10:21:52.571580[Thread 0x00001470]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-28 10:23:35.161454[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 10:23:55.986336[Thread 0x00003974]:Reversing even wall line causes it to be printed CCW instead of CW!
+[warning]	2024-05-28 10:24:40.377963[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-28 10:25:07.085841[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-28 10:25:10.958683[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-28 10:25:42.786261[Thread 0x00001470]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2024-05-28 10:26:06.130233[Thread 0x000038b0]:Reversing even wall line causes it to be printed CCW instead of CW!
+[warning]	2024-05-28 10:26:55.746222[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-28 10:27:02.154205[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-28 10:27:08.181828[Thread 0x000042cc]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-28 10:51:07.796426[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 10:54:42.991111[Thread 0x0000430c]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-28 12:16:44.041977[Thread 0x00004368]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-28 12:16:44.121784[Thread 0x00004368]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-28 12:16:45.310900[Thread 0x00004368]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-28 12:16:45.390810[Thread 0x00004368]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-28 12:17:25.386991[Thread 0x00001470]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2024-05-28 12:18:36.302667[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-28 12:18:45.265337[Thread 0x000022a4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-28 12:19:12.994402[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 12:19:46.622324[Thread 0x00004368]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-28 12:26:07.535937[Thread 0x00001470]:gcode path conflicts found between Deckel.stp and Body.stp
+[error]	2024-05-28 12:43:01.286207[Thread 0x00004368]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-28 12:43:01.379947[Thread 0x00004368]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

@@ -1,0 +1,29 @@
+[error]	2024-05-11 16:51:53.344728[Thread 0x00000e44]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-11 16:51:53.345601[Thread 0x00000e44]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-11 16:51:53.349227[Thread 0x00000e44]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00004790]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x000006d4]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00004008]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00000e44]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00004790]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x000006d4]:Unable to open the fileE:\Escritorio\test(1).3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00003ab4]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00000e44]:Unable to open the fileE:\Escritorio\test.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00004790]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00004008]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x000006d4]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00000e44]:Unable to open the fileE:\Escritorio\jointed+dog+.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00004790]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00000698]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00003ab4]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-11 16:51:53.349227[Thread 0x00003d88]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-11 16:51:53.354708[Thread 0x00001a20]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-11 16:51:53.469044[Thread 0x00000e44]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-11 16:51:54.975809[Thread 0x00000e44]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-11 16:51:55.045500[Thread 0x00000e44]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-05-11 16:51:55.106735[Thread 0x00000e44]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-11 16:52:00.070439[Thread 0x00000e44]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-05-11 16:52:37.674008[Thread 0x00001488]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":120.000000,
+[error]	2024-05-11 16:52:39.287184[Thread 0x00000698]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-11 16:52:39.453459[Thread 0x0000315c]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-05-12 13:33:30.661623[Thread 0x00000e44]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

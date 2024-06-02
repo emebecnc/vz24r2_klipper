@@ -1,0 +1,48 @@
+[error]	2024-05-28 16:07:09.074677[Thread 0x00005050]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-28 16:07:09.076672[Thread 0x00005050]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002428]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002428]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00003c84]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002428]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00003c84]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002428]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00003c84]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00003c84]:Unable to open the fileE:\Escritorio\Body.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002b88]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00005050]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\Body.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002428]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00003c84]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002b88]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00002428]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00005050]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00005470]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-28 16:07:09.078698[Thread 0x00003c84]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-28 16:07:09.207252[Thread 0x00005050]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-28 16:07:10.326256[Thread 0x00005050]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-28 16:07:10.411538[Thread 0x00005050]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-05-28 16:07:10.482860[Thread 0x00005050]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-28 17:23:15.918188[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:05:30.353890[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:14:50.680844[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:17:34.159729[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:18:07.867059[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:18:08.196058[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:18:47.617832[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:19:00.507822[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:19:01.480938[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:19:02.753901[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:20:03.108159[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:20:04.200776[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:20:09.061076[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:20:10.434934[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:20:17.050149[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:20:18.536972[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:32:30.124518[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:32:30.364199[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:32:36.958222[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:32:37.362928[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-29 13:33:52.652677[Thread 0x00004e48]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-29 13:33:56.581881[Thread 0x00004e48]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-29 13:34:37.585584[Thread 0x00005050]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-29 13:34:37.671675[Thread 0x00005050]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-29 13:34:37.745311[Thread 0x00005050]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
