@@ -1,0 +1,70 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#FF8040"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "45"
+    ],
+    "fan_min_speed": [
+        "35"
+    ],
+    "filament_cost": [
+        "12000"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "PLA"
+    ],
+    "filament_start_gcode": [
+        "SET_GCODE_OFFSET Z=0.000; Textu \nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.03;\n"
+    ],
+    "filament_vendor": [
+        "3n3"
+    ],
+    "filament_z_hop": [
+        "0.2"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "overhang_fan_speed": [
+        "45"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "version": "1.6.1.0"
+}

@@ -1,0 +1,26 @@
+[error]	2024-06-02 13:38:34.327629[Thread 0x00005dac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-02 13:38:34.328627[Thread 0x00005dac]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\todo.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\Body.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\Body.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00005dac]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00001484]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00001484]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00001484]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00001484]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x0000bf34]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00001484]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x00001484]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x0000bf34]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-06-02 13:38:34.331675[Thread 0x0000d398]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-06-02 13:38:34.334699[Thread 0x00005dac]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-06-02 13:38:34.501558[Thread 0x00005dac]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-06-02 13:38:36.359877[Thread 0x00005dac]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-02 13:38:39.796683[Thread 0x00005dac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-02 13:38:39.939839[Thread 0x00005dac]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-02 13:43:06.959929[Thread 0x00005dac]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-02 13:43:07.113911[Thread 0x00005dac]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
