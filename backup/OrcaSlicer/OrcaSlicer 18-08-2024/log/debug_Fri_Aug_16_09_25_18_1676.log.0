@@ -1,0 +1,43 @@
+[error]	2024-08-16 09:25:18.610229[Thread 0x00000940]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\process\tpu.json!
+[error]	2024-08-16 09:25:18.615435[Thread 0x00000940]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 95A.json!
+[error]	2024-08-16 09:25:20.137030[Thread 0x00000940]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 09:25:20.138101[Thread 0x00000940]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004918]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\kflex+long.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004918]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004918]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x0000159c]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x0000159c]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x0000159c]:Unable to open the fileE:\Escritorio\Doron Velta.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00004838]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x0000159c]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-16 09:25:20.140096[Thread 0x00005264]:Unable to open the fileE:\Escritorio\Skirts.3mf
+[error]	2024-08-16 09:25:20.272190[Thread 0x00000940]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-16 09:25:21.345599[Thread 0x00000940]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 09:25:21.433014[Thread 0x00000940]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-16 09:25:21.517143[Thread 0x00000940]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-16 09:25:33.336422[Thread 0x00000940]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 09:25:33.430273[Thread 0x00000940]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-16 09:25:33.594403[Thread 0x00000940]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab P1S 0.4 nozzle, no inherit, set to not found
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found the printer preset not inherit from system
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetCollection::validate_preset: preset_name Bambu TPU 95A @BBL X1C, no inherit, set to not found
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found the filament 2 preset not inherit from system
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetCollection::validate_preset: preset_name Bambu ABS @BBL X1C, no inherit, set to not found
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found the filament 3 preset not inherit from system
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetCollection::validate_preset: preset_name Bambu ABS @BBL X1C, no inherit, set to not found
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found the filament 4 preset not inherit from system
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetCollection::validate_preset: preset_name Bambu ABS @BBL X1C, no inherit, set to not found
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found the filament 5 preset not inherit from system
+[warning]	2024-08-16 09:25:33.649864[Thread 0x00000940]:Slic3r::PresetBundle::validate_presets:file_name BeerCap.3mf, found self defined presets, count 4
+[error]	2024-08-16 09:25:44.037063[Thread 0x00000940]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 09:25:44.037063[Thread 0x00000940]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-16 09:26:00.095634[Thread 0x00000940]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 09:26:00.096632[Thread 0x00000940]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

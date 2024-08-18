@@ -1,0 +1,42 @@
+{
+    "change_filament_gcode": "T[next_extruder]",
+    "cooling_tube_length": "0",
+    "cooling_tube_retraction": "0",
+    "extra_loading_move": "0",
+    "from": "User",
+    "inherits": "Voron 0.1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": "_MMU_UPDATE_HEIGHT",
+    "machine_end_gcode": "MMU_END\nEND_PRINT",
+    "machine_max_jerk_x": [
+        "100",
+        "12"
+    ],
+    "machine_max_jerk_y": [
+        "100",
+        "12"
+    ],
+    "machine_max_speed_z": [
+        "20",
+        "12"
+    ],
+    "machine_start_gcode": "MMU_START_SETUP INITIAL_TOOL={initial_tool} REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! PURGE_VOLUMES=!purge_volumes!\nMMU_START_CHECK\nSTART_PRINT EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature]\nMMU_START_LOAD_INITIAL_TOOL\n",
+    "name": "Voron 0.2r1 MMU",
+    "nozzle_type": "brass",
+    "parking_pos_retraction": "0",
+    "print_host": "192.168.0.197",
+    "printable_height": "110",
+    "printer_settings_id": "Voron 0.2r1 MMU",
+    "purge_in_prime_tower": "0",
+    "retraction_length": [
+        "0"
+    ],
+    "use_firmware_retraction": "1",
+    "version": "2.0.2.0",
+    "wipe": [
+        "0"
+    ],
+    "z_hop": [
+        "0"
+    ]
+}

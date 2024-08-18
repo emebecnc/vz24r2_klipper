@@ -1,0 +1,25 @@
+{
+    "fan_max_speed": [
+        "35"
+    ],
+    "fan_min_speed": [
+        "35"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "TPU 90"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "1"
+    ],
+    "inherits": "Bambu TPU 95A @BBL X1C(BeerCap.3mf)",
+    "is_custom_defined": "0",
+    "name": "TPU 90",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "version": "0.0.0.0"
+}

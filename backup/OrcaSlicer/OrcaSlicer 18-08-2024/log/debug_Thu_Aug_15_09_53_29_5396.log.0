@@ -1,0 +1,43 @@
+[error]	2024-08-15 09:53:31.050143[Thread 0x00004990]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:53:31.051171[Thread 0x00004990]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:53:31.075827[Thread 0x00003d64]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x000006a4]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x000006a4]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x000017dc]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x000017dc]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x000006a4]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x000017dc]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-15 09:53:31.075827[Thread 0x00003f6c]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-15 09:53:31.076793[Thread 0x000006a4]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-15 09:53:31.076793[Thread 0x00003f6c]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-15 09:53:31.076793[Thread 0x00003ff4]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-15 09:53:31.076793[Thread 0x00001328]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-15 09:53:31.076793[Thread 0x00004b8c]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-15 09:53:31.076793[Thread 0x00002894]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-15 09:53:31.192930[Thread 0x00004990]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:53:32.213157[Thread 0x00004990]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:53:32.345833[Thread 0x00004990]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-15 09:53:32.488965[Thread 0x00004990]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-15 09:53:35.217545[Thread 0x00004990]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:53:35.300203[Thread 0x00004990]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:53:35.505982[Thread 0x00004990]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-15 09:53:35.564937[Thread 0x00004990]:Slic3r::PresetBundle::validate_presets:preset index 1, different key filament_start_gcode
+[warning]	2024-08-15 09:53:35.564937[Thread 0x00004990]:Slic3r::PresetBundle::validate_presets:file_name Skirts.3mf, found different gcodes count 1
+[error]	2024-08-15 09:53:36.649828[Thread 0x00004990]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:53:36.923374[Thread 0x00004990]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:53:42.400252[Thread 0x00004990]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 09:53:50.910564[Thread 0x00003ff4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:50.910564[Thread 0x00000968]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:50.926186[Thread 0x000017dc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:50.926186[Thread 0x000006a4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:51.068726[Thread 0x00001328]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:51.084350[Thread 0x00002b8c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:51.146836[Thread 0x00000968]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:51.302672[Thread 0x00004030]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:51.302672[Thread 0x00003ff4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:53:51.427304[Thread 0x00001804]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:54:08.174021[Thread 0x00001804]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:54:53.435602[Thread 0x00001804]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:55:03.567483[Thread 0x00004990]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:55:03.584138[Thread 0x00004990]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:55:03.639439[Thread 0x00004990]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

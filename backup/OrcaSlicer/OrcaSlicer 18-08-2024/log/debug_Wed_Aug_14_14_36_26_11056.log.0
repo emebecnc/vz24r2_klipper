@@ -1,0 +1,45 @@
+[error]	2024-08-14 14:36:31.834944[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 14:36:31.835940[Thread 0x00003200]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000045f0]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000045f0]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000045f0]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000004cc]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000045f0]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000023f0]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-14 14:36:31.841924[Thread 0x000004cc]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-14 14:36:32.081844[Thread 0x00003200]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 14:36:34.165162[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 14:36:34.314493[Thread 0x00003200]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-14 14:36:34.442242[Thread 0x00003200]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-14 14:36:38.986392[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 14:36:39.120496[Thread 0x00003200]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 14:36:39.609982[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-14 14:36:39.705125[Thread 0x00003200]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 0.4 nozzle, no inherit, set to not found
+[warning]	2024-08-14 14:36:39.705125[Thread 0x00003200]:Slic3r::PresetBundle::validate_presets:file_name kflex+long.3mf, found the printer preset not inherit from system
+[warning]	2024-08-14 14:36:39.705125[Thread 0x00003200]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-08-14 14:36:39.705125[Thread 0x00003200]:Slic3r::PresetBundle::validate_presets:file_name kflex+long.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-08-14 14:36:39.705125[Thread 0x00003200]:Slic3r::PresetBundle::validate_presets:file_name kflex+long.3mf, found self defined presets, count 2
+[error]	2024-08-14 14:36:44.566972[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 14:36:48.947381[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 14:36:48.962906[Thread 0x00003200]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-14 14:37:12.620048[Thread 0x00003200]:Fontlist cache - 'C:\Users\MB\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2024-08-14 14:37:12.702305[Thread 0x00003200]:Failed to write fontlist cache - C:\Users\MB\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2024-08-14 14:37:18.284350[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:37:21.017672[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:37:23.370668[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:37:35.267970[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:37:36.223285[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:37:37.668026[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:37:38.332919[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:38:02.502862[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 14:42:04.394705[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 15:12:13.626407[Thread 0x00003200]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 15:24:45.159719[Thread 0x00003200]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 15:24:45.286599[Thread 0x00003200]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

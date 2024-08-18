@@ -1,0 +1,25 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "fan_max_speed": [
+        "35"
+    ],
+    "fan_min_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "TPU 95A"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL X1C(BeerCap.3mf)",
+    "is_custom_defined": "0",
+    "name": "TPU 95A",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "version": "0.0.0.0"
+}
