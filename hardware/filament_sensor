@@ -1,0 +1,21 @@
+##################################################
+#########     FILAMENT CONFIGURATION     #########
+##################################################
+
+# Define filament motion sensor parameters
+[filament_motion_sensor filament_sensor]
+detection_length: 400 #45  # Length for filament detection.
+extruder: extruder  # Extruder to monitor for filament motion.
+switch_pin: !PG11  # Pin used for filament motion detection.
+pause_on_runout: FALSE  # Don't pause the printer when filament runs out.
+runout_gcode:
+    #PAUSE  # Pause the printer when filament runs out.
+    #PLAY_CAMBIO_DE_FILA  # Call a function or macro named PLAY_CAMBIO_DE_FILA.
+    M600
+insert_gcode:  # Insert additional G-code here if necessary.
+
+# Define delayed G-code for disabling filament sensor
+[delayed_gcode DISABLEFILAMENTSENSOR]	
+initial_duration: 1  # Delay duration before executing the G-code.
+gcode:
+    SET_FILAMENT_SENSOR SENSOR=filament_sensor ENABLE=0  # Disable the filament sensor.
