@@ -20,7 +20,7 @@ full_steps_per_rotation: 200
 uart_pin: PE1
 run_current: 0.55
 sense_resistor: 0.110
-interpolate: False
+interpolate: true
 driver_TBL: 1
 driver_TOFF: 3 
 driver_HSTRT: 0
@@ -49,20 +49,21 @@ switch_pin: PG6
 gcode:
     M83  
     G92 E0
-    M109 S220
-    G1 E800 F3000    ; Insertar 450 mm de filamento a 120 mm/s
-    G1 E150 F300     ; Insertar los últimos 50 mm de filamento a 20 mm/s
+    #M109 S220
+    G1 E200 F1500
+    G1 E600 F3000    ; Insertar 450 mm de filamento a 120 mm/s
+    G1 E200 F300     ; Insertar los últimos 50 mm de filamento a 20 mm/s
     M82
 
 [gcode_macro DESCARGAR_FILAMENTO]
 gcode:
     M83               ; Establecer extrusor en modo relativo
     G92 E0
-    M109 S220
+    #M109 S220
     G1 E10 F300       ; Extruir 10 mm de filamento para ablandar la punta
     G1 E-5 F3600      ; Retraer 5 mm para evitar atascos
     G1 E-50 F300      ; Retraer 50 mm lentamente para permitir enfriamiento
-    G1 E-800 F1500    ; Retraer 800 mm rápidamente a 50 mm/s
+    G1 E-850 F1800    ; Retraer 800 mm rápidamente a 50 mm/s
     M82               ; Volver a modo absoluto
 
 
