@@ -79,6 +79,16 @@ system_dependencies = system-dependencies.json
 primary_branch = main
 managed_services = klipper
 
+[update_manager cartographer]
+type = git_repo
+path = ~/cartographer-klipper
+channel = stable
+origin = https://github.com/Cartographer3D/cartographer-klipper.git
+is_system_service = False
+managed_services = klipper
+info_tags = 
+	desc=Cartographer Probe
+
 [update_manager klipper_tmc_autotune]
 type = git_repo
 channel = dev
@@ -117,4 +127,11 @@ virtualenv = ~/.KlipperScreen-env
 requirements = scripts/KlipperScreen-requirements.txt
 system_dependencies = scripts/system-dependencies.json
 managed_services = KlipperScreen
+
+[update_manager motors-sync]
+type = git_repo
+path = /home/pi/motors-sync
+origin = https://github.com/MRX8024/motors-sync.git
+primary_branch = main
+managed_services = klipper
 
