@@ -1,0 +1,107 @@
+[error]	2024-08-15 14:19:55.594896[Thread 0x00004644]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 14:19:55.595925[Thread 0x00004644]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 14:19:55.624816[Thread 0x00002458]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x0000424c]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x00004648]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-15 14:19:55.624816[Thread 0x0000424c]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-15 14:19:55.836352[Thread 0x00004644]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 14:19:57.667329[Thread 0x00004644]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 14:19:57.761310[Thread 0x00004644]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-15 14:19:57.848581[Thread 0x00004644]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-15 14:19:59.165392[Thread 0x00004644]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 14:19:59.252682[Thread 0x00004644]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 14:19:59.560041[Thread 0x00004644]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-15 14:19:59.625118[Thread 0x00004644]:Slic3r::PresetBundle::validate_presets:preset index 1, different key filament_start_gcode
+[warning]	2024-08-15 14:19:59.625118[Thread 0x00004644]:Slic3r::PresetBundle::validate_presets:file_name Skirts.3mf, found different gcodes count 1
+[error]	2024-08-15 14:20:00.783003[Thread 0x00004644]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 14:20:01.135445[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:02.753624[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:07.322082[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:08.366865[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:08.597894[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:08.741371[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:09.003501[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:09.103267[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:12.130267[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:12.170414[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:12.243790[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:12.722297[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:20:12.782179[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:20:16.300609[Thread 0x00003ee8]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-08-15 14:20:18.627732[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:21:05.720235[Thread 0x00002458]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:05.722229[Thread 0x0000493c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:05.736192[Thread 0x00004648]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:05.886463[Thread 0x00002524]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:06.023206[Thread 0x00002458]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:06.527537[Thread 0x0000493c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:06.549478[Thread 0x00004648]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:06.768644[Thread 0x000011f8]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:06.928303[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:21:07.219566[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 14:21:07.343556[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:08.823270[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:13.335253[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:15.778912[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:16.167728[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:16.837811[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:17.677765[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:21:18.183284[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:21:20.073356[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:21:20.337815[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:21:35.084181[Thread 0x0000493c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:35.085566[Thread 0x00004874]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:35.312133[Thread 0x000011f8]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:35.401346[Thread 0x00004874]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:35.496289[Thread 0x00002524]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:35.977738[Thread 0x0000424c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:36.099952[Thread 0x000040f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:21:36.187714[Thread 0x00004874]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[error]	2024-08-15 14:21:42.170317[Thread 0x000011f8]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2024-08-15 14:22:01.539832[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:22:16.087784[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:22:16.872297[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:22:23.658571[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:22:27.071017[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:22:33.560715[Thread 0x0000493c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:33.625322[Thread 0x000045b0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:33.779619[Thread 0x00004050]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:33.881926[Thread 0x00003530]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:33.896990[Thread 0x000011f8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:34.322289[Thread 0x00004934]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:34.505591[Thread 0x000040f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:34.580571[Thread 0x00004874]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:22:34.832552[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:22:35.108993[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 14:23:18.179453[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:23:19.634993[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:23:27.725593[Thread 0x0000481c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:23:27.799110[Thread 0x0000424c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:23:27.888291[Thread 0x000046a8]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:23:28.133491[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:23:28.402163[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 14:23:39.526851[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:23:40.454473[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 14:23:44.963994[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:23:46.405195[Thread 0x00004934]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:23:46.514668[Thread 0x00004648]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:23:46.646086[Thread 0x000011f8]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 14:23:46.774195[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:23:47.041211[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:24:01.840167[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:24:02.107941[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 14:24:20.517306[Thread 0x00004644]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 14:54:47.111932[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 14:54:47.390781[Thread 0x000011f8]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 19:05:10.946163[Thread 0x00004644]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 19:05:11.089996[Thread 0x00004644]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

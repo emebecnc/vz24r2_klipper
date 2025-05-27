@@ -1,0 +1,27 @@
+[error]	2024-08-14 10:37:36.068019[Thread 0x000008bc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 10:37:36.068019[Thread 0x000008bc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 10:37:36.091147[Thread 0x00002894]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x00001350]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x00002218]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000011dc]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000006a4]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000008fc]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000008f8]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x00000cf0]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000023b4]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x0000135c]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000011d8]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x00000658]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x000009e0]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-14 10:37:36.091147[Thread 0x00002590]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-14 10:37:36.240743[Thread 0x000008bc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 10:37:37.939992[Thread 0x000008bc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 10:37:38.011775[Thread 0x000008bc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-14 10:37:38.083311[Thread 0x000008bc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-14 10:37:41.778308[Thread 0x000008bc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 10:37:41.841258[Thread 0x000008bc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 10:37:42.029558[Thread 0x000008bc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 10:37:42.118428[Thread 0x000008bc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-14 10:37:46.872953[Thread 0x00003a58]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-08-14 11:06:42.092148[Thread 0x000008bc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 11:06:42.206319[Thread 0x000008bc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

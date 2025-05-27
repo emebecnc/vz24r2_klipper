@@ -1,0 +1,25 @@
+[error]	2024-05-13 15:52:42.498396[Thread 0x00002f18]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-13 15:52:42.503343[Thread 0x00002f18]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00002f18]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00002f18]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00004498]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000041a4]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00004498]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000041a4]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00004498]:Unable to open the fileE:\Escritorio\test(1).3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000041a4]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00004498]:Unable to open the fileE:\Escritorio\test.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000046a0]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00004498]:Unable to open the fileE:\Escritorio\jointed+dog+.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000041a4]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000046a0]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x00004498]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000041a4]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-13 15:52:42.503343[Thread 0x000030f8]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-13 15:52:42.506337[Thread 0x00002f18]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-13 15:52:44.140740[Thread 0x00002f18]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-05-13 15:52:44.329695[Thread 0x00002f18]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2024-05-13 15:55:01.644628[Thread 0x0000470c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":120.000000,
+[warning]	2024-05-13 15:55:07.745909[Thread 0x0000470c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":120.000000,
+[warning]	2024-05-13 16:05:58.040873[Thread 0x0000470c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":120.000000,
+[error]	2024-05-13 19:22:16.611754[Thread 0x00002f18]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,138 @@
+[error]	2024-08-15 09:55:06.619965[Thread 0x00000be0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:55:06.619965[Thread 0x00000be0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:55:06.651607[Thread 0x000011a4]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x0000057c]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x0000057c]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x000021f4]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x0000057c]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x00003f64]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x000021f4]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-15 09:55:06.651607[Thread 0x0000057c]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-15 09:55:06.777068[Thread 0x00000be0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:55:07.856150[Thread 0x00000be0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:55:07.946243[Thread 0x00000be0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-15 09:55:08.024855[Thread 0x00000be0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-15 09:55:09.150883[Thread 0x00000be0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:55:09.234892[Thread 0x00000be0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:55:09.435074[Thread 0x00000be0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-15 09:55:09.496242[Thread 0x00000be0]:Slic3r::PresetBundle::validate_presets:preset index 1, different key filament_start_gcode
+[warning]	2024-08-15 09:55:09.496242[Thread 0x00000be0]:Slic3r::PresetBundle::validate_presets:file_name Skirts.3mf, found different gcodes count 1
+[error]	2024-08-15 09:55:18.918435[Thread 0x00000be0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-15 09:55:19.197234[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 09:55:23.267013[Thread 0x00002a38]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.301330[Thread 0x00000d30]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.334469[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.395944[Thread 0x000006f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.406457[Thread 0x0000383c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.438093[Thread 0x000021f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.438093[Thread 0x00004470]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.485351[Thread 0x000031f8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.579468[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:23.689219[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:55:40.201048[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:55:40.232293[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:55:40.301158[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 09:55:45.435888[Thread 0x0000229c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-08-15 09:55:46.901354[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:46.995982[Thread 0x000011a4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.027231[Thread 0x0000057c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.090222[Thread 0x00003e64]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.120213[Thread 0x0000383c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.167079[Thread 0x00003f64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.167079[Thread 0x000021f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.198714[Thread 0x0000162c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.245585[Thread 0x0000057c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.590622[Thread 0x00003e64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.730596[Thread 0x00004470]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:47.790969[Thread 0x00003e64]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:55:48.027368[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:55:48.228997[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:56:14.567978[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:56:24.034709[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:56:33.817427[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:56:34.801647[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:56:42.334263[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 09:56:44.233938[Thread 0x000021f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.255582[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.388772[Thread 0x000011a4]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.398375[Thread 0x00004470]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.398375[Thread 0x00000d30]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.434838[Thread 0x00003a3c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.599957[Thread 0x0000162c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.646822[Thread 0x00003f1c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.800429[Thread 0x000006f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:44.899828[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:56:48.268470[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 09:56:51.897503[Thread 0x00003a3c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:52.038490[Thread 0x00003e64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:52.257950[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:56:52.378924[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:56:52.583737[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:57:07.151506[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:57:07.351361[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:57:36.670596[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:57:53.634651[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:57:55.020180[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:58:07.384347[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-15 09:58:14.801398[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:58:16.385393[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:58:16.952121[Thread 0x0000060c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2024-08-15 09:58:18.536303[Thread 0x000006f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:18.551925[Thread 0x00004470]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:18.817937[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:18.951410[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:58:19.168589[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:58:49.464665[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.620411[Thread 0x000021f4]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.667278[Thread 0x00002a38]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.682899[Thread 0x0000057c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.714527[Thread 0x000011a4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.855511[Thread 0x000021f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.871132[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.903778[Thread 0x00003a3c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:49.919475[Thread 0x00003e64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.324358[Thread 0x00000d30]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.324358[Thread 0x00003a3c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.324358[Thread 0x00003f1c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.324358[Thread 0x00002bd0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.355601[Thread 0x000021f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.434825[Thread 0x000031f8]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.434825[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.449328[Thread 0x00003f64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.464955[Thread 0x000011a4]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.480574[Thread 0x0000162c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.512205[Thread 0x0000057c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.512205[Thread 0x000006f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.559072[Thread 0x00004470]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.559072[Thread 0x00000d30]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.559072[Thread 0x00002bd0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.559072[Thread 0x00003a3c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.574694[Thread 0x00003f1c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.574694[Thread 0x000021f4]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.574694[Thread 0x00003e64]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.668164[Thread 0x0000383c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.683785[Thread 0x00003f64]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:58:50.810645[Thread 0x00002bd0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:25.968923[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.002263[Thread 0x0000383c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.069001[Thread 0x00003f1c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.147128[Thread 0x00002bd0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.163135[Thread 0x00003e64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.178760[Thread 0x000006f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.236962[Thread 0x0000057c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.353212[Thread 0x00003f64]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.378345[Thread 0x0000060c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:26.971394[Thread 0x000006f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:27.162267[Thread 0x000011a4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:27.162267[Thread 0x00000d30]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2024-08-15 09:59:27.502383[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-08-15 09:59:27.720272[Thread 0x0000060c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-08-15 09:59:44.462319[Thread 0x00000be0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-15 09:59:44.506617[Thread 0x00000be0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-15 09:59:44.550769[Thread 0x00000be0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

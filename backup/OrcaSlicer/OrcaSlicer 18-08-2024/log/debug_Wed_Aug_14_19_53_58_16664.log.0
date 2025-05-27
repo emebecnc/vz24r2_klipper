@@ -1,0 +1,32 @@
+[error]	2024-08-14 19:54:00.997105[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 19:54:00.998102[Thread 0x00002a60]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x0000442c]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x0000442c]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x0000442c]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x0000442c]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00004240]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x00002a60]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-14 19:54:01.001233[Thread 0x0000442c]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-14 19:54:01.164037[Thread 0x00002a60]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 19:54:02.389794[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 19:54:02.510267[Thread 0x00002a60]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-14 19:54:02.606711[Thread 0x00002a60]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-14 19:54:10.149044[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 19:54:10.259112[Thread 0x00002a60]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 19:54:10.723142[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-14 19:54:10.798498[Thread 0x00002a60]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 0.4 nozzle, no inherit, set to not found
+[warning]	2024-08-14 19:54:10.798498[Thread 0x00002a60]:Slic3r::PresetBundle::validate_presets:file_name kflex+long.3mf, found the printer preset not inherit from system
+[warning]	2024-08-14 19:54:10.798498[Thread 0x00002a60]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-08-14 19:54:10.798498[Thread 0x00002a60]:Slic3r::PresetBundle::validate_presets:file_name kflex+long.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-08-14 19:54:10.798498[Thread 0x00002a60]:Slic3r::PresetBundle::validate_presets:file_name kflex+long.3mf, found self defined presets, count 2
+[error]	2024-08-14 19:54:13.956549[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 19:54:15.965097[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 19:54:16.081382[Thread 0x00002a60]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 19:54:16.081382[Thread 0x00002a60]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

@@ -1,0 +1,28 @@
+[error]	2024-05-23 17:51:35.947952[Thread 0x0000235c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00007a60]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00003d28]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00003d28]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00003d28]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\test(1).3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00003d28]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000235c]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00003d28]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x0000090c]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00004a78]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-23 17:51:35.952538[Thread 0x00007a60]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-23 17:51:37.484568[Thread 0x0000235c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-05-23 17:51:37.716973[Thread 0x0000235c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-23 17:51:40.092867[Thread 0x0000235c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 17:51:40.093864[Thread 0x0000235c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-23 17:51:43.243151[Thread 0x0000235c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 17:51:43.380461[Thread 0x0000235c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-23 17:51:45.577216[Thread 0x0000235c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 17:51:45.715353[Thread 0x0000235c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-23 17:56:33.194487[Thread 0x0000235c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 17:56:33.390860[Thread 0x0000235c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

@@ -1,0 +1,100 @@
+[error]	2024-06-01 13:00:04.100012[Thread 0x00002514]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-01 13:00:04.115635[Thread 0x00002514]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-01 13:00:04.146878[Thread 0x00002514]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\todo.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x0000162c]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x0000245c]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000003f4]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\Body.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000010fc]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00001de8]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000010f8]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00000d34]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00001f38]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00001b68]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000005cc]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00002008]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00000590]:Unable to open the fileE:\Escritorio\Body.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000013c4]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000023f4]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00001154]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x00001b68]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-06-01 13:00:04.146878[Thread 0x000023f4]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-06-01 13:00:04.272288[Thread 0x00002514]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-01 13:00:06.005089[Thread 0x00002514]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-01 13:00:06.065901[Thread 0x00002514]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-06-01 13:00:06.129201[Thread 0x00002514]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-01 15:18:02.487983[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-01 16:50:41.378611[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-01 16:50:48.359917[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:09:28.628963[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:09:28.724531[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:09:42.386993[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:09:47.941772[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:33:40.062597[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:33:52.948900[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:34:01.234692[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:34:35.110165[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:34:35.938624[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:34:36.761880[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:34:43.542038[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:40:54.706934[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:43:25.991318[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 11:44:20.126106[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:44:24.836175[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:44:27.441036[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 11:44:27.550140[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[warning]	2024-06-02 11:44:29.802388[Thread 0x00001f98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-06-02 13:01:54.432648[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 13:07:09.906986[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 13:07:12.917994[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[warning]	2024-06-02 13:20:12.843085[Thread 0x00001f98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-06-02 13:20:13.187500[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 13:49:28.701814[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 14:09:58.687313[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 14:57:31.931751[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:32.311247[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:33.548962[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:36.532663[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:39.623617[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:40.136899[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:40.277344[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 14:57:42.608647[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:07:14.693834[Thread 0x00002514]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-02 15:22:48.723355[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:22:48.849506[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[warning]	2024-06-02 15:33:09.592990[Thread 0x00002c10]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-06-02 15:39:19.111794[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:43:18.008729[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:43:18.134182[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:43:19.484034[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:43:19.612486[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:43:20.174667[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 15:43:20.316162[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[warning]	2024-06-02 15:43:31.929197[Thread 0x00001f98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-06-02 16:10:42.318776[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-02 16:10:42.477039[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-03 10:30:55.201804[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-03 10:35:27.101118[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[warning]	2024-06-03 11:23:00.136770[Thread 0x00001f98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-06-03 11:23:11.524130[Thread 0x000003f4]:Influence area could not be increased! Data about the Influence area: Radius: 5484678 at layer: 111 NextTarget: 111 Distance to top: 194 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153D67AB3A0: Radius: 5484678 at layer: 112 NextTarget: 112 Distance to top: 193 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-03 11:23:11.532229[Thread 0x000010f8]:Influence area could not be increased! Data about the Influence area: Radius: 5484678 at layer: 97 NextTarget: 97 Distance to top: 208 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153D67B9410: Radius: 5484678 at layer: 98 NextTarget: 98 Distance to top: 207 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-03 11:23:11.539434[Thread 0x00001f38]:Influence area could not be increased! Data about the Influence area: Radius: 5484678 at layer: 85 NextTarget: 85 Distance to top: 220 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153DB1CFCB0: Radius: 5484678 at layer: 86 NextTarget: 86 Distance to top: 219 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-03 11:23:11.557680[Thread 0x000010fc]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 48 NextTarget: 48 Distance to top: 206 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153DCF8B2E0: Radius: 3594922 at layer: 49 NextTarget: 49 Distance to top: 205 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-06-03 11:23:47.922420[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[error]	2024-06-03 11:23:50.925477[Thread 0x000013a0]:Slic3r::_BBS_3MF_Exporter::save_object_mesh:5574, Unable to open the file
+[warning]	2024-06-03 11:23:51.983227[Thread 0x00001f98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-06-03 11:23:58.728529[Thread 0x00001f38]:Influence area could not be increased! Data about the Influence area: Radius: 5484678 at layer: 104 NextTarget: 104 Distance to top: 195 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153DD406FF0: Radius: 5484678 at layer: 105 NextTarget: 105 Distance to top: 194 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-03 11:23:58.742411[Thread 0x000010f8]:Influence area could not be increased! Data about the Influence area: Radius: 5484678 at layer: 75 NextTarget: 75 Distance to top: 224 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153DD41B2D0: Radius: 5484678 at layer: 76 NextTarget: 76 Distance to top: 223 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-06-03 11:23:58.765853[Thread 0x000010fc]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 22 NextTarget: 22 Distance to top: 227 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 00000153CE97F910: Radius: 3594922 at layer: 23 NextTarget: 23 Distance to top: 226 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-06-03 11:32:52.073610[Thread 0x00002514]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-03 11:32:52.191019[Thread 0x00002514]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-03 11:33:51.340726[Thread 0x00002514]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-03 11:33:51.459795[Thread 0x00002514]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-03 11:34:37.132141[Thread 0x00002514]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-03 11:34:41.476141[Thread 0x00002514]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

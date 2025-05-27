@@ -1,0 +1,6 @@
+[error]	2024-06-28 13:21:53.430627[Thread 0x000099b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 13:21:53.433616[Thread 0x000099b4]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 13:21:53.939764[Thread 0x000099b4]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 13:22:01.000546[Thread 0x000099b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 13:22:01.498875[Thread 0x000099b4]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 13:22:01.786301[Thread 0x000099b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

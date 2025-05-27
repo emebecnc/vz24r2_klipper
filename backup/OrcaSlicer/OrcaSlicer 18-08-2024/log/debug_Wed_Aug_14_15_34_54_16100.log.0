@@ -1,0 +1,36 @@
+[error]	2024-08-14 15:34:55.963408[Thread 0x00002888]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 15:34:55.964612[Thread 0x00002888]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00003c94]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00003c94]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x0000409c]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x0000409c]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00003c94]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-14 15:34:55.966607[Thread 0x00002888]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-14 15:34:55.967604[Thread 0x00002724]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-14 15:34:56.109654[Thread 0x00002888]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-14 15:34:57.341983[Thread 0x00002888]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 15:34:57.437161[Thread 0x00002888]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-14 15:34:57.534650[Thread 0x00002888]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2024-08-14 17:19:20.457348[Thread 0x00004b84]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-08-14 17:21:08.367103[Thread 0x00004b84]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-08-14 18:07:41.482561[Thread 0x00004b84]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-08-14 18:30:09.324382[Thread 0x00002888]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 18:41:40.989206[Thread 0x00002888]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 18:42:25.794670[Thread 0x00002888]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 18:42:26.601673[Thread 0x00002888]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 18:42:27.090350[Thread 0x00002888]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 18:43:26.433208[Thread 0x00002888]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 18:43:27.657073[Thread 0x00002888]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 19:06:59.013929[Thread 0x00001684]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]bed_mount_x3_PLA_29m16s
+ ^
+[error]	2024-08-14 20:36:03.081749[Thread 0x00002888]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-14 20:36:03.141138[Thread 0x00002888]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-14 20:36:03.208220[Thread 0x00002888]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

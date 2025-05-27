@@ -1,0 +1,30 @@
+[error]	2024-08-16 16:36:11.233985[Thread 0x00003cbc]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\process\bambu tpu.json!
+[error]	2024-08-16 16:36:11.233985[Thread 0x00003cbc]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\process\tpu.json!
+[error]	2024-08-16 16:36:11.233985[Thread 0x00003cbc]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 90-95.json!
+[error]	2024-08-16 16:36:11.233985[Thread 0x00003cbc]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 90.json!
+[error]	2024-08-16 16:36:11.233985[Thread 0x00003cbc]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 95A.json!
+[error]	2024-08-16 16:36:11.233985[Thread 0x00003cbc]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\tpu v2.json!
+[error]	2024-08-16 16:36:13.116749[Thread 0x00003cbc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 16:36:13.116749[Thread 0x00003cbc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-16 16:36:13.116749[Thread 0x00003cbc]:Unable to open the fileE:\Escritorio\bowden_sherpa_1.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x00003cbc]:Unable to open the fileE:\Escritorio\BeerCap.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x00001eb8]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x00001eb8]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\Doron Velta.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x00001eb8]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\kflex+long.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x00001eb8]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000052a4]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000052a4]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000052a4]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-16 16:36:13.116749[Thread 0x000049ec]:Unable to open the fileE:\Escritorio\Skirts.3mf
+[error]	2024-08-16 16:36:13.305217[Thread 0x00003cbc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-16 16:36:14.635749[Thread 0x00003cbc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 16:36:14.744544[Thread 0x00003cbc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-16 16:36:14.847677[Thread 0x00003cbc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-17 09:55:04.423803[Thread 0x00003cbc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-17 09:55:04.508738[Thread 0x00003cbc]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

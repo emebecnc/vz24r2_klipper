@@ -1,0 +1,67 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "default_filament_colour": [
+        "#FF8000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "5"
+    ],
+    "fan_max_speed": [
+        "45"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_end_gcode": [
+        ""
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "55"
+    ],
+    "filament_settings_id": [
+        "PETG"
+    ],
+    "filament_start_gcode": [
+        "SET_GCODE_OFFSET Z=0.000; Textu \nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.03;\n\n"
+    ],
+    "filament_type": [
+        "PETG"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "85"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "PETG",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "overhang_fan_speed": [
+        "0"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "pressure_advance": [
+        "0.038"
+    ],
+    "slow_down_min_speed": [
+        "35"
+    ],
+    "version": "1.6.1.0"
+}

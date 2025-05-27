@@ -1,0 +1,34 @@
+[error]	2024-08-13 14:30:21.340281[Thread 0x00001a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-13 14:30:21.341278[Thread 0x00001a88]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-13 14:30:21.343273[Thread 0x00005ab4]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-13 14:30:21.343273[Thread 0x00005ab4]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\Dra Maura Cabaña  (1).3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\Soporte Gauss.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00002c5c]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\Miguel\CARCASA EXTERIOR SUPERIOR (TRASERA).3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00002c5c]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00004e90]:Unable to open the fileE:\Escritorio\Filamentalist\Filamentalist.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00003fc8]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-13 14:30:21.344269[Thread 0x00002c5c]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-13 14:30:21.636025[Thread 0x00001a88]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-13 14:30:23.472881[Thread 0x00001a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-13 14:30:23.656127[Thread 0x00001a88]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-13 14:30:23.810310[Thread 0x00001a88]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-13 14:30:26.655824[Thread 0x00001a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-13 14:30:26.840717[Thread 0x00001a88]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-13 14:30:27.142451[Thread 0x00001a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-13 14:30:27.329677[Thread 0x00001a88]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-13 14:31:11.850794[Thread 0x00001a88]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-13 14:31:13.015290[Thread 0x00001a88]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-13 14:31:16.701248[Thread 0x00000fe4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-08-13 14:31:20.930241[Thread 0x00000fe4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-08-13 14:31:31.296967[Thread 0x00001a88]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-13 14:31:32.800542[Thread 0x00001a88]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-13 14:31:33.581125[Thread 0x00001a88]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-13 14:31:35.730862[Thread 0x00000fe4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-08-13 14:31:37.525196[Thread 0x00001a88]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-13 16:58:11.910922[Thread 0x00000fe4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-08-13 16:58:31.545241[Thread 0x00000fe4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,

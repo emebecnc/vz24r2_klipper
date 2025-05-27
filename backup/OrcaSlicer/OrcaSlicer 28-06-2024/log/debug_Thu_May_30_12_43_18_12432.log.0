@@ -1,0 +1,29 @@
+[error]	2024-05-30 12:43:21.318247[Thread 0x00001544]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-30 12:43:21.331846[Thread 0x00001544]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003584]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x0000380c]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00001098]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00001784]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003814]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003644]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00001560]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003804]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003808]:Unable to open the fileE:\Escritorio\Body.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00002a1c]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x000017cc]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003654]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003810]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00002518]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x000034e8]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-30 12:43:21.347059[Thread 0x00003804]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\Body.3mf
+[error]	2024-05-30 12:43:21.352717[Thread 0x00003814]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-30 12:43:21.515924[Thread 0x00001544]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-05-30 12:43:23.137968[Thread 0x00001544]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-30 12:43:23.214154[Thread 0x00001544]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-05-30 12:43:23.293927[Thread 0x00001544]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-30 12:43:35.120211[Thread 0x00001544]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-31 11:23:05.932891[Thread 0x00001544]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-31 19:32:47.725218[Thread 0x00001544]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-31 20:19:28.517669[Thread 0x00001544]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-31 22:47:09.789928[Thread 0x00001544]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-31 22:47:09.884739[Thread 0x00001544]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

@@ -1,0 +1,44 @@
+[error]	2024-06-12 17:12:32.594598[Thread 0x0000474c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-12 17:12:32.594598[Thread 0x0000474c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\todo.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\Glock+19+v6+movable+trigger+and+Slide\Body.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\Body.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x0000474c]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00003c20]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00003c20]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00003c20]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00001254]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00003c20]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00003c20]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00001254]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00003c20]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-06-12 17:12:32.596600[Thread 0x00001254]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-06-12 17:12:32.598610[Thread 0x0000474c]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-06-12 17:12:32.722649[Thread 0x0000474c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-12 17:12:34.214699[Thread 0x0000474c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-12 17:12:34.283648[Thread 0x0000474c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-06-12 17:12:34.364660[Thread 0x0000474c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2024-06-12 17:13:26.140611[Thread 0x00001b68]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-06-12 17:13:30.859584[Thread 0x00001b68]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-06-12 17:25:23.896675[Thread 0x000032f0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.896675[Thread 0x000015fc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.899184[Thread 0x00004454]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.899184[Thread 0x00001a04]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.899184[Thread 0x00001254]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.899184[Thread 0x00003f10]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00003a24]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x0000062c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00003868]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00000690]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00003b6c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00004188]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x0000463c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00003c20]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00000658]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.905185[Thread 0x00003924]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.915259[Thread 0x00003868]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-06-12 17:25:23.915259[Thread 0x00003924]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!

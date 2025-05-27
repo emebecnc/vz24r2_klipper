@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "35"
+    ],
+    "fan_min_speed": [
+        "35"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "TPU 90-95"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL X1C(BeerCap.3mf)",
+    "is_custom_defined": "0",
+    "name": "TPU 90-95",
+    "pressure_advance": [
+        "0.022"
+    ],
+    "version": "0.0.0.0"
+}

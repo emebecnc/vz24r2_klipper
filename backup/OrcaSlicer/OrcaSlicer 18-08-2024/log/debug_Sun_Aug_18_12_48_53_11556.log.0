@@ -1,0 +1,31 @@
+[error]	2024-08-18 12:48:54.364729[Thread 0x0000199c]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\process\bambu tpu.json!
+[error]	2024-08-18 12:48:54.427208[Thread 0x0000199c]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\process\tpu.json!
+[error]	2024-08-18 12:48:54.501905[Thread 0x0000199c]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 90-95.json!
+[error]	2024-08-18 12:48:54.517482[Thread 0x0000199c]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 90.json!
+[error]	2024-08-18 12:48:54.517482[Thread 0x0000199c]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\TPU 95A.json!
+[error]	2024-08-18 12:48:54.517482[Thread 0x0000199c]:can not find parent for config C:\Users\MB\AppData\Roaming\OrcaSlicer\user\default\filament\tpu v2.json!
+[error]	2024-08-18 12:48:58.448052[Thread 0x0000199c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-18 12:48:58.448052[Thread 0x0000199c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\bowden_sherpa_1.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x000053a4]:Unable to open the fileE:\Escritorio\cover_door_top_x1.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x00002620]:Unable to open the fileE:\Escritorio\Sellos Geor v2.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\BeerCap.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x000053a4]:Unable to open the fileE:\Escritorio\Sculpture-#09.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\PCB_Mount.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x000053a4]:Unable to open the fileE:\Escritorio\Palera Eureka.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\Skirts.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x000053a4]:Unable to open the fileE:\Escritorio\Paleta Eureka.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\Doron Velta.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\kflex+long.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x000053a4]:Unable to open the fileE:\Escritorio\Yoga Claudia.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x00000984]:Unable to open the fileE:\Escritorio\Yoga\Yoga Claudia.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x000053a4]:Unable to open the fileE:\Escritorio\Cubo MMU Orca.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x0000199c]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Motion Mounts\(a) RAIL_GUARD_R1_0_X3.3mf
+[error]	2024-08-18 12:48:58.463674[Thread 0x00000984]:Unable to open the fileE:\Escritorio\Doron-Velta-main\STLs\Toolhead\Dragon_Mount.3mf
+[error]	2024-08-18 12:48:58.698446[Thread 0x0000199c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-08-18 12:49:00.753155[Thread 0x0000199c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-18 12:49:00.894251[Thread 0x0000199c]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-08-18 12:49:01.020057[Thread 0x0000199c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-18 12:49:03.483544[Thread 0x0000199c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-18 12:49:10.735177[Thread 0x00004fb0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":110.000000,
+[error]	2024-08-18 13:08:37.453051[Thread 0x0000199c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

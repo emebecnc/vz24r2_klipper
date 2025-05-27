@@ -1,0 +1,72 @@
+[error]	2024-05-24 10:25:58.504039[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-24 10:25:58.507246[Thread 0x000027c0]:Unable to open the fileE:\Escritorio\thanos-bust-by-eastman.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x000027c0]:Unable to open the fileE:\Escritorio\Loki_Mask_v1_High_quality.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x000027c0]:Unable to open the fileE:\Escritorio\DRAGONBURNERALL.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x000027c0]:Unable to open the fileE:\Escritorio\TH_Top_Clip_x4.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x000027c0]:Unable to open the fileE:\Escritorio\Panel Mounting.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x00001be8]:Unable to open the fileE:\Escritorio\Marco Bordado v3.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x000039bc]:Unable to open the fileE:\Escritorio\José Joaquín Arroyo Gómez\Piezas Jose Completas.3mf
+[error]	2024-05-24 10:25:58.507246[Thread 0x00001be8]:Unable to open the fileE:\Escritorio\Marco Interno.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x000039bc]:Unable to open the fileE:\Escritorio\Tanque José.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x00001be8]:Unable to open the fileE:\Escritorio\800-65000.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x000039bc]:Unable to open the fileE:\Escritorio\Big_Double_CAD v1.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x00001be8]:Unable to open the fileE:/Escritorio/Top Drawer Copy (1) (1).3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x000039bc]:Unable to open the fileE:\Escritorio\All Parts v1.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x00007358]:Unable to open the fileE:\Escritorio\Marco Bordado v1.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x00001be8]:Unable to open the fileE:\Escritorio\test(1).3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x000039bc]:Unable to open the fileE:\Escritorio\separador.3mf
+[error]	2024-05-24 10:25:58.508243[Thread 0x00007358]:Unable to open the fileE:\Escritorio\(Unsaved).3mf
+[error]	2024-05-24 10:25:58.513872[Thread 0x000027c0]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-24 10:26:00.145618[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-05-24 10:26:00.281130[Thread 0x000027c0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-05-24 10:26:03.566390[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-24 10:26:03.567427[Thread 0x000027c0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-05-24 10:26:21.522490[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-24 10:27:31.329784[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-24 10:27:38.228616[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 10:28:26.921491[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:54:59.926168[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:55:19.002036[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:55:38.787326[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:55:39.281065[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:56:01.073393[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:56:03.032409[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 10:56:07.710935[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 10:56:11.145134[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 10:56:17.490840[Thread 0x00003fe8]:gcode path conflicts found between Body 2.stp and Deckel.stp
+[warning]	2024-05-24 10:56:30.777793[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 10:57:58.273135[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 10:58:02.576532[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 10:58:16.327991[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 10:58:21.637454[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 10:58:23.557756[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-24 11:05:55.088147[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-05-24 11:06:03.567985[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 11:40:32.724465[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 12:02:03.748356[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 12:59:59.810882[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 13:00:07.100306[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 13:00:26.237936[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 13:00:26.522874[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 13:00:27.547161[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 13:00:31.795646[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[warning]	2024-05-24 13:01:04.143459[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 13:02:09.477201[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 13:02:14.405260[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 13:11:57.239271[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 13:11:59.643215[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-24 13:11:59.902244[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 13:54:48.902786[Thread 0x0000149c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-05-24 13:54:56.290290[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 13:55:00.049463[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-05-24 13:55:59.777560[Thread 0x000027c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-05-24 13:56:39.571749[Thread 0x00007358]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 386 NextTarget: 386 Distance to top: 83 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000025BB337B490: Radius: 3594922 at layer: 387 NextTarget: 387 Distance to top: 82 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-05-24 13:56:39.586243[Thread 0x00007d6c]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 376 NextTarget: 376 Distance to top: 93 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000025BF6C4B020: Radius: 3594922 at layer: 377 NextTarget: 377 Distance to top: 92 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-05-24 13:56:39.626152[Thread 0x00007e1c]:Influence area could not be increased! Data about the Influence area: Radius: 3594922 at layer: 355 NextTarget: 355 Distance to top: 114 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000025C0A07F1C0: Radius: 3594922 at layer: 356 NextTarget: 356 Distance to top: 113 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-05-24 13:56:52.861205[Thread 0x00003fe8]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2024-05-24 13:56:57.291470[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-25 15:02:15.367324[Thread 0x000027c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-25 15:02:15.467761[Thread 0x000027c0]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
