@@ -1,0 +1,16 @@
+# Motors Sync - AWD / dual steppers (CoreXY)
+# Docs: https://github.com/MRX8024/motors-sync/blob/main/wiki/EN.md
+# Installed and loaded. TESTS PENDING - run SYNC_MOTORS later (cold, fans off).
+# Optional later in START_PRINT:
+#   {% if not printer.motors_sync.applied %}
+#     SYNC_MOTORS
+#   {% endif %}
+
+[motors_sync]
+axes: x,y
+accel_chip: adxl345
+sync_method: default
+#microsteps: 16
+#retry_tolerance: 0
+#retries: 0
+#head_fan: fan
