@@ -1,0 +1,33 @@
+BACKUP NEXT STEPS (HSCore)
+==========================
+Current: BACKUP_CFG pushes config via HTTPS + GitHub PAT (legacy).
+Deploy key generated on Pi but NOT yet added to GitHub (ssh test: Permission denied).
+
+Public deploy key (add to GitHub repo emebecnc/vz24r2_klipper → Settings → Deploy keys → Allow write):
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHlF7BjEr6a90Y38k7dTzmcoyz4yDQLRkVHe5fLJ8zC1 hscore-backup@pi
+
+After key is added on GitHub, on the Pi run:
+  cd ~
+  git remote set-url origin git@github.com-hscore:emebecnc/vz24r2_klipper.git
+  ssh -T git@github.com-hscore
+  # expect: Hi emebecnc/vz24r2_klipper! You've successfully authenticated...
+  BACKUP_CFG   # or bash ~/printer_data/config/autocommit.sh
+
+Then REVOKE the old GitHub PAT used in the HTTPS remote.
+
+Scope today (BACKUP_CFG / autocommit.sh):
+  - ~/printer_data/config (cfgs, macros, sonar, ShakeTune results if kept)
+  - copies moonraker-sql.db into config for commit
+  - records klipper/moonraker/mainsail versions in commit message
+
+NOT covered yet (full disaster recovery):
+  - OrcaSlicer profiles (live on the PC, not on the Pi)
+  - MCU firmware binaries / flash scripts
+  - Full ~/klipper ~/moonraker trees (normally reinstalled via KIAUH)
+  - gcodes/timelapse media (large; optional separate)
+
+Recommended "everything useful" next:
+  1) Switch remote to SSH deploy key + revoke PAT
+  2) Keep BACKUP_CFG for live config
+  3) Add a periodic tarball of printer_data/config + database to PC or second GitHub repo
+  4) Export Orca profiles from Windows into that same backup location

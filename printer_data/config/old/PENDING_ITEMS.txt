@@ -24,3 +24,13 @@ PENDING (do not auto-apply)
    - Belts similarity 92.2% (Good); beta amp delta 35% worth watching
    - Current SAVE_CONFIG X=zv/114 Y=mzv/76.8 already near S&T performance recs
    - Possible later tweak (only if wanting change): X zv->mzv ~114.2; optional axes_map
+
+4) WiFi stability (2026-08-01)
+   - Pi is WiFi-only (eth0 unavailable/no link). KlipperScreen uses localhost so survives WiFi blips.
+   - WiFi powersave DISABLED via NetworkManager.
+   - Sonar enabled (was false).
+   - Best fix long-term: Ethernet cable to Pi.
+
+5) Backup hardening
+   - Deploy key pub ready; waiting for GitHub deploy-key add + remote switch + PAT revoke.
+   - See old/BACKUP_NEXT_STEPS.txt
