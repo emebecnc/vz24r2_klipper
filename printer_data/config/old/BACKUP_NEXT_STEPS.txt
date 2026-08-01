@@ -31,3 +31,9 @@ Recommended "everything useful" next:
   2) Keep BACKUP_CFG for live config
   3) Add a periodic tarball of printer_data/config + database to PC or second GitHub repo
   4) Export Orca profiles from Windows into that same backup location
+
+DONE 2026-08-01:
+- Deploy key authenticated OK
+- origin switched to git@github.com-hscore:emebecnc/vz24r2_klipper.git
+- BACKUP_CFG / autocommit exercised over SSH
+- ACTION for you: revoke the old GitHub PAT that was in the HTTPS remote
