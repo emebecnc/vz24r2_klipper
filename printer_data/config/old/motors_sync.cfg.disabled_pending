@@ -1,0 +1,12 @@
+# Motors Sync TEST — evaluation only
+# Wiki: https://github.com/MRX8024/motors-sync/blob/main/wiki/EN.md
+# NOT in START_PRINT. steps_model NOT saved.
+# head_fan supports only heater_fan/controller_fan/temperature_fan.
+# Part cooling [fan] and RSCS are turned off via gcode before SYNC_MOTORS.
+
+[motors_sync]
+axes: x,y
+accel_chip: adxl345
+microsteps: 16
+max_step_size: 3
+head_fan: heater_fan hotend_fan

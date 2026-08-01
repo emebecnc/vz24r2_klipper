@@ -1,0 +1,26 @@
+PENDING (do not auto-apply)
+===========================
+1) motors-sync
+   - Status: DISABLED
+   - File: old/motors_sync.cfg.disabled_pending
+   - Notes: Useful occasional tool; Cartographer ADXL noise floor high.
+     Do not force RETRY_TOLERANCE below ~1500. Not in START_PRINT.
+   - Next: decide if enable for occasional use; if yes, recheck ATC after.
+
+2) axis_twist_compensation
+   - Status: ACTIVE (current SAVE_CONFIG values kept; not disabled)
+   - Notes: X-only profile 10..285mm, ~0.11mm peak-to-peak.
+     May be coupled with motors-sync belt tension balance.
+   - Next: after any motors-sync adoption, revalidate/recalibrate ATC.
+     Do not change until motors-sync decision.
+
+3) Shake&Tune
+   - Status: evaluation run (no SAVE_CONFIG / no shaper apply)
+
+3) Shake&Tune (evaluated 2026-08-01) — NO APPLY
+   - Ran: AXES_MAP, COMPARE_BELTS, AXES_SHAPER (AXIS=all)
+   - Skipped: CREATE_VIBRATIONS_PROFILE (after IS decision)
+   - Results in ShakeTune_results/ dated 20260801_155*
+   - Belts similarity 92.2% (Good); beta amp delta 35% worth watching
+   - Current SAVE_CONFIG X=zv/114 Y=mzv/76.8 already near S&T performance recs
+   - Possible later tweak (only if wanting change): X zv->mzv ~114.2; optional axes_map
