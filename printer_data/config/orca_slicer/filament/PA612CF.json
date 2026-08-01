@@ -1,0 +1,67 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "default_filament_colour": [
+        "#FF8040"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_end_gcode": [
+        ""
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "PA612CF"
+    ],
+    "filament_start_gcode": [
+        "SET_GCODE_OFFSET Z=0.12; Textu \nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.03;\n\n\n\n"
+    ],
+    "filament_type": [
+        "PA612CF"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "PA612CF",
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "nozzle_temperature_range_low": [
+        "270"
+    ],
+    "overhang_fan_speed": [
+        "30"
+    ],
+    "pressure_advance": [
+        "0.042"
+    ],
+    "slow_down_min_speed": [
+        "55"
+    ],
+    "version": "1.6.1.0"
+}

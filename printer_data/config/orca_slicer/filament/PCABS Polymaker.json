@@ -1,0 +1,70 @@
+{
+    "additional_cooling_fan_speed": [
+        "20"
+    ],
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "15"
+    ],
+    "fan_min_speed": [
+        "15"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "PCABS Polymaker"
+    ],
+    "filament_start_gcode": [
+        "SET_GCODE_OFFSET Z=0.035;\n"
+    ],
+    "filament_type": [
+        "PCABS"
+    ],
+    "filament_z_hop": [
+        "0.2"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PCABS Polymaker",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "0"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "pressure_advance": [
+        "0.038"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "35"
+    ],
+    "version": "1.6.1.0"
+}

@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C(BeerCap.3mf)",
+    "is_custom_defined": "0",
+    "name": "bambu tpu",
+    "print_settings_id": "bambu tpu",
+    "version": "0.0.0.0"
+}
